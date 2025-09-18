@@ -52,3 +52,10 @@ layout: default
 3.  **极端省钱法：** 迪拜转机游客可考虑海湾六国共享包，但沙特境内流量比例需看清。
 
 　　*最后唠叨一句：* 沙特套餐更新快得像沙漠风暴，行前最好再查运营商官网或可靠渠道。毕竟谁也不想为过期信息多花冤枉钱，对吧？
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Saudi Arabia SIM 卡购买与激活指南](https://faciylike.github.io/saudi-arabia-sim-guides)
